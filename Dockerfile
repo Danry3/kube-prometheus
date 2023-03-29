@@ -1,1 +1,1 @@
-From https://registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.10.0
+FROM https://registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.10.0
